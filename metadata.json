@@ -1,0 +1,7 @@
+{
+  "name": "SMEGenie",
+  "description": "A professional business utility and leave management suite that helps employees and organizations manage operations, payroll, and formal requests instantly. Includes AI-powered assistant, institutional ledger, and multi-user support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
